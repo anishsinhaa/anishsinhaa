@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anish Sinha</h1>
-<h3 align="center">a passionate programmer with expertise in Java, Python, JavaScript, ReactJS, HTML, CSS, and C.</h3>
+<h3 align="center">a passionate programmer with expertise in Java, Python, JavaScript, HTML, CSS, and C. I love diving into coding challenges and finding creative solutions. I believe in writing clean and maintainable code to build robust software applications.
+
+💻 When I'm not coding, you can often find me capturing moments through my camera lens, exploring my photography skills. I also enjoy gaming, immersing myself in virtual worlds, and staying up to date with the latest gaming trends. Anime is another one of my interests, and I love watching captivating stories unfold on the screen.
+
+✈️ Additionally, I have a passion for traveling and discovering new places. Exploring different cultures and experiencing the beauty of nature inspires me and fuels my creativity.
+
+🌟 Feel free to browse through my GitHub repositories to see some of my projects and contributions. Let's connect and collaborate on exciting ventures!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anishsinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="anishsinhaa" /> </p>
+
+<p align="left"> <a href="https://twitter.com/anishsinhaa" target="blank"><img src="https://img.shields.io/twitter/follow/anishsinhaa?logo=twitter&style=for-the-badge" alt="anishsinhaa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,3 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishsinhaa&show_icons=true&locale=en&layout=compact" alt="anishsinhaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anishsinhaa&show_icons=true&locale=en" alt="anishsinhaa" /></p>
