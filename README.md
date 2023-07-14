@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Sinha, </h1>
-<h3 align="center">a passionate programmer with expertise in Java, JavaScript, ReactJS, Python, HTML, CSS, and C. I love diving into coding challenges and finding creative solutions. I believe in writing clean and maintainable code to build robust software applications.
+<h3 align="center">A passionate programmer with expertise in Java, JavaScript, ReactJS, Python, HTML, CSS, and C. I love diving into coding challenges and finding creative solutions. I believe in writing clean and maintainable code to build robust software applications.
 
 💻 When I'm not coding, you can often find me capturing moments through my camera lens, exploring my photography skills. I also enjoy gaming, immersing myself in virtual worlds, and staying up to date with the latest gaming trends. Anime is another one of my interests, and I love watching captivating stories unfold on the screen.
 
