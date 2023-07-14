@@ -6,7 +6,7 @@
 ✈️ Additionally, I have a passion for traveling and discovering new places. Exploring different cultures and experiencing the beauty of nature inspires me and fuels my creativity.
 
 🌟 Feel free to browse through my GitHub repositories to see some of my projects and contributions. Let's connect and collaborate on exciting ventures!</h3>
-<h2>My Protfolio Website Link :: https://anishsinha.netlify.app </h2>
+<h2 align="center">My Protfolio Website Link :: https://anishsinha.netlify.app </h2>
 <img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishsinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="anishsinhaa" /> </p>
