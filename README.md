@@ -5,8 +5,9 @@
 <p align="center">📷 Beyond coding, I capture moments with my camera and explore virtual worlds in gaming. Anime and travel enthusiast, finding inspiration in diverse cultures and nature.</p>
 
 <p align="center">🌐 Check out my <a href="https://anishsinha.netlify.app">Portfolio Website</a></p>
-
+<h4 align="center"><a align="center" href='https://github.com/anishsinhaa/resume-AS/blob/main/Anish%20Sinha%20-%2019%20Aug%202023.pdf'>RESUME</a></h5>
 <h3 align="center">Connect with me:</h3>
+
 <p align="center">
   <a href="https://twitter.com/_anishsinha_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"></a>
   <a href="https://linkedin.com/in/anish-sinha-751025236"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
